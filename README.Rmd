@@ -8,7 +8,6 @@ runtime: shiny
 
 run_analysis
 ============
-Last updated 'r as.character(Sys.time())' using 'r R.version$version.string'.
 
 
 Instructions for project
@@ -34,7 +33,7 @@ Instructions for project
 > 
 > Good luck!
 
-**The codebook is at the end of this document.**
+
 
 
 Getting and Cleaning Data - Course Project
